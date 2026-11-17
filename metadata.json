@@ -1,0 +1,8 @@
+{
+  "name": "Remix HostelCare – Hostel Maintenance \u0026 Complaint Tracking",
+  "description": "Report. Track. Resolve. With Transparency. A role-based hostel maintenance management and complaint tracking prototype for students, technicians, and wardens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
